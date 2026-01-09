@@ -1,9 +1,5 @@
 ## Hey there 👋
 
-<!--
-**Soha-28/Soha-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 I'm **Soha Momin**, a Data Science student at **York University** with a strong interest in data analysis, problem-solving, and clear communication.
 
 I enjoy working with data to uncover patterns, build insights, and explain complex ideas in a simple, meaningful way.
